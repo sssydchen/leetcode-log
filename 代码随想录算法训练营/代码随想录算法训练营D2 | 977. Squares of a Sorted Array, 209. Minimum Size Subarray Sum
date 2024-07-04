@@ -1,5 +1,0 @@
-## 977. Squares of a Sorted Array
-  双指针，分别从左往右和从右往左遍历
-  
-## 209. Minimum Size Subarray Sum
-  双指针，滑动窗口，需要多练习
